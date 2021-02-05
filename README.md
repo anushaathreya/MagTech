@@ -1,1 +1,1 @@
-# MagTech1
+# MagTech
